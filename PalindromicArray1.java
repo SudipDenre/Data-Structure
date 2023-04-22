@@ -1,6 +1,6 @@
 // time complexity = O(n)
 // space complexity = O(1)
-
+// More Optimized Solution
 public class PalindromicArray1 {
     public static void main(String[] args) {
         int[] arr = {1,2,3,2,1};
